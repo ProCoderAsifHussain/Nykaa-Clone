@@ -1,5 +1,5 @@
 # Nykaa Clone 🚀
-[![GitHub commit activity](https://github.com/ProCoderAsifHussain)]
+[GitHub commit activity](https://github.com/ProCoderAsifHussain/Nykaa-Clone/tree/master/Nykaa-Clone-React)
 
 <!-- <div style="display: flex; justify-content: center; align-items: center;">
   <img style="border-radius: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-nykaa-3384872-2822953.png?f=webp&w=256" alt="Nykaa logo">
@@ -8,7 +8,7 @@
 **Nykaa is one of India's leading e-commerce platforms offering a wide range of products.** 🌟
 
 ## 🌐 Deployment Links
-- Frontend Deployment [Click Here](https://github.com/ProCoderAsifHussain)
+- Frontend Deployment [Click Here](https://nykaa-clone-asif-hussain-bfteyxjtu.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -118,4 +118,4 @@ This section has moved [here](https://facebook.github.io/create-react-app/docs/t
 This section has moved [here](https://drive.google.com/file/d/1OAHaUUSvkKwBr6oF_1NyR6wUKWgxucB1/view?usp=sharing).
 
 ## 📂 Repository
-GitHub: [Click Here](https://github.com/ProCoderAsifHussain)
+GitHub: [Click Here](https://github.com/ProCoderAsifHussain/Nykaa-Clone/tree/master/Nykaa-Clone-React)
